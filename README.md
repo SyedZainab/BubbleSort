@@ -1,3 +1,3 @@
 # BubbleSort
-![Screenshot (1458)](https://user-images.githubusercontent.com/47735998/151678171-9105f9bb-101a-4ff9-838a-2d5230bc3120.png)
+![Screenshot (1459)](https://user-images.githubusercontent.com/47735998/151678348-96e624c1-1ed5-4015-b862-690757197cae.png)
 
